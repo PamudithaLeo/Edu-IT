@@ -1,0 +1,31 @@
+1.WinKey + R
+2.Winver (Check win version - If Windows 11 or 10 then should be UpToDate version)
+3.WinKey + R
+4.Type "Terminal"
+5.Type "wsl --install
+6.Provide "yes" Allow installations (Might popup more than one time)
+7.Reboot
+8.Add Username
+9.Enter a password twice
+10.To Open "wsl -d ubuntu
+11.exit (to exit)
+#Defult installation is Ubuntu & if you wanted to installed other operating systems use command #wsl --list --online
+You can get a list of available distributions.
+
+Install Kali-Linux
+
+1.wsl --install kali-Linux -y
+(Else go to store and search for Kali Linux and install)
+2.Give username & password
+
+Installed GUI version
+
+1.sudo apt install update
+2.sudo apt install kali-win-kex -y
+3.Enter the password (After installation complete run below command)
+4.kex
+5.To exit use F8 key
+
+
+
+
